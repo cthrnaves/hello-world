@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+Hi Friends!
+
+I'm Cath 
+
+
+I'm from UPOU
